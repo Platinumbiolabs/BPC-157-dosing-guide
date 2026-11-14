@@ -8,7 +8,7 @@ BPC-157 is a pentadecapeptide sequence consisting of 15 amino acids, widely stud
 ## Dosing & Administration Protocols
 For comprehensive, step-by-step reconstitution instructions, calculated charts, and complete dosing protocols for the 10mg vial configuration, please check the official guidelines:
 
-🔗 *[Access Official Platinum Biolabs Dosing Guide](https://platinumbiolabs.com/dosing)*[span_0](start_span)[span_0](end_span)
+🔗 *https://platinumbiolabs.com/dosing/bpc-157-10
 
 ## Storage & Stability Guidelines
 •⁠  ⁠*Lyophilized (Freeze-Dried) Vials:* Store in a cool, dry place at or below -20°C for long-term preservation. Short-term storage is permissible at 2°C to 8°C.
